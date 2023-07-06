@@ -1,0 +1,14 @@
+C:\Users\DELL\Source\Repos\MooveupBackend\UnidirectGraph_backend\bin\Debug\net6.0\UnidirectGraph_backend.exe
+C:\Users\DELL\Source\Repos\MooveupBackend\UnidirectGraph_backend\bin\Debug\net6.0\UnidirectGraph_backend.deps.json
+C:\Users\DELL\Source\Repos\MooveupBackend\UnidirectGraph_backend\bin\Debug\net6.0\UnidirectGraph_backend.runtimeconfig.json
+C:\Users\DELL\Source\Repos\MooveupBackend\UnidirectGraph_backend\bin\Debug\net6.0\UnidirectGraph_backend.dll
+C:\Users\DELL\Source\Repos\MooveupBackend\UnidirectGraph_backend\bin\Debug\net6.0\ref\UnidirectGraph_backend.dll
+C:\Users\DELL\Source\Repos\MooveupBackend\UnidirectGraph_backend\bin\Debug\net6.0\UnidirectGraph_backend.pdb
+C:\Users\DELL\Source\Repos\MooveupBackend\UnidirectGraph_backend\obj\Debug\net6.0\UnidirectGraph_backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Source\Repos\MooveupBackend\UnidirectGraph_backend\obj\Debug\net6.0\UnidirectGraph_backend.AssemblyInfoInputs.cache
+C:\Users\DELL\Source\Repos\MooveupBackend\UnidirectGraph_backend\obj\Debug\net6.0\UnidirectGraph_backend.AssemblyInfo.cs
+C:\Users\DELL\Source\Repos\MooveupBackend\UnidirectGraph_backend\obj\Debug\net6.0\UnidirectGraph_backend.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Source\Repos\MooveupBackend\UnidirectGraph_backend\obj\Debug\net6.0\UnidirectGraph_backend.dll
+C:\Users\DELL\Source\Repos\MooveupBackend\UnidirectGraph_backend\obj\Debug\net6.0\ref\UnidirectGraph_backend.dll
+C:\Users\DELL\Source\Repos\MooveupBackend\UnidirectGraph_backend\obj\Debug\net6.0\UnidirectGraph_backend.pdb
+C:\Users\DELL\Source\Repos\MooveupBackend\UnidirectGraph_backend\obj\Debug\net6.0\UnidirectGraph_backend.genruntimeconfig.cache
